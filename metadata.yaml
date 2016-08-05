@@ -1,0 +1,35 @@
+_repo: Five-Little-Peppers-Grown-Up_7498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: In New England in the late nineteenth-century, the fatherless family
+  of Ben, Polly, Joel, Davie, and Phronsie faces trials and obstacles yet remains
+  eternally optimistic in the face of adversity.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women music teachers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Love -- Juvenile fiction'
+- GITenberg
+title: Five Little Peppers Grown Up
+url: http://www.gutenberg.org/ebooks/7498
