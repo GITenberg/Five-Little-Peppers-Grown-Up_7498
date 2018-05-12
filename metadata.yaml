@@ -1,5 +1,8 @@
 _repo: Five-Little-Peppers-Grown-Up_7498
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sidney, Margaret
@@ -12,6 +15,8 @@ creator:
 description: In New England in the late nineteenth-century, the fatherless family
   of Ben, Polly, Joel, Davie, and Phronsie faces trials and obstacles yet remains
   eternally optimistic in the face of adversity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7498#Five-Little-Peppers-Grown-Up
 gutenberg_bookshelf:
 - Children's Book Series
 - Children's Literature
